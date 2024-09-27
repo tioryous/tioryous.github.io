@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tioryous.github.io/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/app/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/assets/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/css/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/data/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/includes/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/item/sitemap.tioryous.gz
+Sitemap: https://tioryous.github.io/src/sitemap.tioryous.gz
